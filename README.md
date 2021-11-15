@@ -1,6 +1,6 @@
 # RumbleDB Install Script
 
-The (probably) fastest way to try out RumbleDB on your Linux machine. Downloads all JARs into a folder, exposes REPL and file input as
+The (probably) fastest way to try out [RumbleDB](https://github.com/RumbleDB/rumble) on your Linux machine. Downloads all JARs into a folder, exposes REPL and file input as
 bash commands, and includes an uninstaller that cleans everything up
 if needed.
 
