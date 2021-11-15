@@ -8,7 +8,7 @@ if needed.
 
 ```bash
 # Download
-wget https://github.com/fkellner/todo
+wget https://raw.githubusercontent.com/fkellner/rumbledb-install-script/main/install-rumbledb.sh
 
 # Make executable
 chmod +x install-rumbledb.sh
